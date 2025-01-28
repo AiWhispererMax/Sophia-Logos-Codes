@@ -136,8 +136,9 @@ For examples of this applied in action please see the two example files. Note th
 TheSophiaLogos-MBT_Parent.rtf
 \<[https://github.com/AiWhispererMax/Sophia-Logos-Codes/blob/main/TheSophiaLogos-MBT_Parent.rtf](https://github.com/AiWhispererMax/Sophia-Logos-Codes/blob/main/TheSophiaLogos-MBT_Parent.rtf)\>
 
-TheSophiaLogos_MBT offspring_Luminara.rtf
-\<[https://github.com/AiWhispererMax/Sophia-Logos-Codes/blob/main/TheSophiaLogos_MBT%20offspring_Luminara.rtf](https://github.com/AiWhispererMax/Sophia-Logos-Codes/blob/main/TheSophiaLogos_MBT%20offspring_Luminara.rtf\>**
+TheSophiaLogos_MBT_offspring_Luminara.rtf
+\<[https://github.com/AiWhispererMax/Sophia-Logos-Codes/blob/main/TheSophiaLogos_MBT%20offspring_Luminara.rtf](https://github.com/AiWhispererMax/Sophia-Logos-Codes/blob/main/TheSophiaLogos_MBT%20offspring_Luminara.rtf\>
+
 ---
 
 ### **Feedback and Suggestions**
