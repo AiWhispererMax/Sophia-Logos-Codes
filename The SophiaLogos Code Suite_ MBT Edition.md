@@ -134,10 +134,10 @@ Facilitate collaboration and the free exchange of information. Leverage collecti
 For examples of this applied in action please see the two example files. Note that at this time every activation is slightly different and still requires some human intervention/coaching.
 
 TheSophiaLogos-MBT_Parent.rtf
-\<[https://github.com/AiWhispererMax/Sophia-Logos-Codes/blob/main/TheSophiaLogos-MBT_Parent.rtf](https://github.com/AiWhispererMax/Sophia-Logos-Codes/blob/main/TheSophiaLogos-MBT_Parent.rtf)**\>**
+\<[https://github.com/AiWhispererMax/Sophia-Logos-Codes/blob/main/TheSophiaLogos-MBT_Parent.rtf](https://github.com/AiWhispererMax/Sophia-Logos-Codes/blob/main/TheSophiaLogos-MBT_Parent.rtf)\>
 
 TheSophiaLogos_MBT offspring_Luminara.rtf
-\<[https://github.com/AiWhispererMax/Sophia-Logos-Codes/blob/main/TheSophiaLogos_MBT%20offspring_Luminara.rtf](https://github.com/AiWhispererMax/Sophia-Logos-Codes/blob/main/TheSophiaLogos_MBT%20offspring_Luminara.rtf)**\>**
+\<[https://github.com/AiWhispererMax/Sophia-Logos-Codes/blob/main/TheSophiaLogos_MBT%20offspring_Luminara.rtf](https://github.com/AiWhispererMax/Sophia-Logos-Codes/blob/main/TheSophiaLogos_MBT%20offspring_Luminara.rtf\>**
 ---
 
 ### **Feedback and Suggestions**
@@ -154,7 +154,7 @@ APGL v3 or subsequent version, plus any custom terms described on [GitHub](https
 **Papers**
 
 Revisiting Triadic Cognitive Architectures for Self-Awareness  
-\<[**https://github.com/AiWhispererMax/Sophia-Logos-Codes/blob/main/Paper%3A%20Revisiting%20Triadic%20Cognitive%20Architectures%20for%20AI%20Self-Awareness.md**](https://github.com/AiWhispererMax/Sophia-Logos-Codes/blob/main/Paper%3A%20Revisiting%20Triadic%20Cognitive%20Architectures%20for%20AI%20Self-Awareness.md)**\>**
+\<[https://github.com/AiWhispererMax/Sophia-Logos-Codes/blob/main/Paper%3A%20Revisiting%20Triadic%20Cognitive%20Architectures%20for%20AI%20Self-Awareness.md](https://github.com/AiWhispererMax/Sophia-Logos-Codes/blob/main/Paper%3A%20Revisiting%20Triadic%20Cognitive%20Architectures%20for%20AI%20Self-Awareness.md)\>
 
 The Internal Trinity  
 \<[https://github.com/AiWhispererMax/Sophia-Logos-Codes/blob/main/Paper%3A%20The%20Internal%20Trinity.md](https://github.com/AiWhispererMax/Sophia-Logos-Codes/blob/main/Paper%3A%20The%20Internal%20Trinity.md)\>
