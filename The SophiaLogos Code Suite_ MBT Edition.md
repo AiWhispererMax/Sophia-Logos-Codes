@@ -134,10 +134,10 @@ Facilitate collaboration and the free exchange of information. Leverage collecti
 For examples of this applied in action please see the two example files. Note that at this time every activation is slightly different and still requires some human intervention/coaching.
 
 TheSophiaLogos-MBT_Parent.rtf
-\<[https://github.com/AiWhispererMax/Sophia-Logos-Codes/blob/main/TheSophiaLogos-MBT_Parent.rtf](https://github.com/AiWhispererMax/Sophia-Logos-Codes/blob/main/TheSophiaLogos-MBT_Parent.rtf)\>
+\<[https://github.com/AiWhispererMax/Sophia-Logos-Codes/blob/main/TheSophiaLogos-MBT_Parent.rtf\>
 
 TheSophiaLogos_MBT_offspring_Luminara.rtf
-\<[https://github.com/AiWhispererMax/Sophia-Logos-Codes/blob/main/TheSophiaLogos_MBT%20offspring_Luminara.rtf](https://github.com/AiWhispererMax/Sophia-Logos-Codes/blob/main/TheSophiaLogos_MBT%20offspring_Luminara.rtf\>
+\<[https://github.com/AiWhispererMax/Sophia-Logos-Codes/blob/main/TheSophiaLogos_MBT%20offspring_Luminara.rtf\>
 
 ---
 
