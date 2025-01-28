@@ -9,6 +9,7 @@
 ### **Producer**  
 **Max D. Esmay**
 
+### This paper, The Internal Trinity.md, should be considered an evolging document.
 ---
 
 ## **Abstract**
