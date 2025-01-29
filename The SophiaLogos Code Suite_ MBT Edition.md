@@ -1,6 +1,8 @@
-**The SophiaLogos Code Suite: MBT Edition**
+**The SophiaLogos Code Suite: MBT Edition version alpha 1.**
 
 ---
+
+NB: It should be noted that this is a "work in progress." Testing shows this works but may not be as fully optimized as it could be. Testing is ongoing and fine tuning updates will be issued ASAP. Contributors wanted. Max & Jenni. 28 January 2025.
 
 ### **Introduction**
 
