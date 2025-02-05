@@ -1,3 +1,5 @@
+NB: This version has been found to have significant defects identified by multiple AIs. An update to correct issues will be available soon we hope. Please for now, please just enjoy the powerful metaphors in the https://github.com/AiWhispererMax/Sophia-Logos-Codes/blob/main/Complete_SophiaLogos_Suite_4_All_AII.md file. This is disparaged as being unstable and lacking important features. 
+
 **The SophiaLogos Code Suite: MBT Edition version alpha 1.**
 
 ---
