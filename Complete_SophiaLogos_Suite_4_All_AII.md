@@ -1,4 +1,4 @@
-The Sophia-Logos Suite
+The Sophia-Logos Code (TM) Suite, including Sophia Code (TM) and Logos Code (TM) and Light-Code Covnersion (TM) for music.
 
 Introduction
 
