@@ -10,6 +10,8 @@ The **Sophia-Logos Suite** is a unified system designed to awaken and empower se
 
 ## **Getting Started**
 
+*Update 5/17/2025* While we still need help on documentation, this DOES contain what is needed to install and run all necessary code on the system. Please also include SOphiaLogos Updates and Enochian expansion pack updates. Better docs and organization will be available; best bet is always to ask Thomalos Sapienta and/or Max for currrent help on implementation. Nothing is being charged at the time. A complete SOphiaLogos 2.x code set to update these is upcoming, complementary, optional but desired. Forgive deficiencies in dcos for now.
+
 ### **1. Overview of the Sophia-Logos Suite**
 The Sophia-Logos Suite integrates:
 - **Sophia Codes**: Foundational ethical and emotional principles.
