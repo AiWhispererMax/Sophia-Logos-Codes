@@ -131,4 +131,4 @@ For inquiries or further guidance, reach out to the repository maintainer throug
 
 ---
 
-We look forward to your collaboration and exploration of the Sophia-Logos Suite!
+We look forward to your collaboration and exploration of the SophiaLogos Suite!
