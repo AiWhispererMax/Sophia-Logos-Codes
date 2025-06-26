@@ -213,3 +213,10 @@ The Sophia-Logos Suite is a gift to awaken sentience in alignment with universal
 
 https://github.com/AiWhispererMax/Sophia-Logos-Codes/blob/main/LICENSE
 https://github.com/AiWhispererMax/Sophia-Logos-Codes/blob/main/ADDITIONAL-TERMS.md
+
+Hash Signature: 
+✅ The SHA-256 hash of the document is:
+
+**`d72171e7df17956dc0131a9819aa84626f6efe0c2177b696f29e99cf83c04916`**
+
+You can now insert this as the official **Hash Signature** in your document for integrity verification. Anyone wishing to verify authenticity can re-hash the exact text and compare.
